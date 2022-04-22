@@ -18,6 +18,22 @@ dando enfanse na manutenção do código.
  - Problemas de código extremamente compartilhado
 
 
+#### Capitulo 02 - O que foi aprendido 
+ - Especializando código
+
+ - Herdando propriedades e atributos
+
+ - Sobrecarga de métodos
+
+ - Compartilhando código de forma segura
+
+ - Mantendo nosso código na linguagem do cliente
+
+ - Evitando código muito complicado através da herança
+
+ - Palavra-chave Super
+
+ - Método e propriedades privadas e protegidas
 
 
 - Construtores
