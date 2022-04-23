@@ -36,6 +36,21 @@ dando enfanse na manutenção do código.
  - Método e propriedades privadas e protegidas
 
 #### Capitulo 03 - O que foi aprendido 
+
+ - Como o JS sabe quem está sendo instanciado.
+
+ - Pensando na proteção do nosso sistema
+
+ - Lançando erros para o sistema
+
+ - Classes abstratas
+
+ - Métodos abstratos
+
+ - Erros em tempo de execução
+
+
+
 - Construtores
 - Encapsulamento
 - Atributos "readonly"
