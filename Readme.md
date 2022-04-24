@@ -4,7 +4,7 @@
 
 ## O foco desse curso é Herança de Polimorfismo 
 
-### O curso segue uma linha de raciocinio, implementar uma nova funcionalidade!
+### O curso segue uma linha de raciocinio: implementar uma novas funcionalidades!
 Para isso iremos reaproveitar o código que ja foi escrito, com herança de funções já criadas, aplicando coneitos de Polimorfismo, 
 dando enfanse na manutenção do código.
 
