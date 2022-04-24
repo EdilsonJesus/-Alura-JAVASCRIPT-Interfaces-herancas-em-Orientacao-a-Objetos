@@ -2,7 +2,7 @@
 
 # Este curso é a continuação do Curso Orientação Objetos em Javascript da ALURA
 
-## O foco desse curso é Herança de Orientação a Objetos 
+## O foco desse curso é Herança de Polimorfismo 
 
 ### O curso segue uma linha de raciocinio, implementar uma nova funcionalidade!
 Para isso iremos reaproveitar o código que ja foi escrito, com herança de funções já criadas, aplicando coneitos de Polimorfismo, 
