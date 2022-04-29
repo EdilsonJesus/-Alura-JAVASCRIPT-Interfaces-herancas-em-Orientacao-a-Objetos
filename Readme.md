@@ -8,6 +8,7 @@
 Para isso iremos reaproveitar o código que ja foi escrito, com herança de funções já criadas, aplicando coneitos de Polimorfismo, 
 dando enfanse na manutenção do código.
 
+
 -   - -  -  - - - - -  - - -- ------------------------------------------
 
 #### Capitulo 01 - O que foi aprendidido
@@ -60,7 +61,15 @@ dando enfanse na manutenção do código.
  - Maneiras de tratar objetos de diferentes tipos de maneira parecida
 
 
-- Construtores
-- Encapsulamento
-- Atributos "readonly"
-- Atributos estáticos
+#### Capitulo 05 - O que foi aprendido
+ - Operador in
+
+ - Operador instanceOf
+
+ - Como proteger nossos sistemas
+
+ - interfaces padronizadas
+
+ - Ducky Type
+
+### Sendo assim, a conclusão desse curso é que a programação Orienteda a Objetos é uma ramificação de dados, onde é possivel criar interessões e comportamentos entre eles realmente fantanticos, embora não seja algo tão simples assim.
